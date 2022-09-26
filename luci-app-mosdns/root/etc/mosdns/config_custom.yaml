@@ -156,6 +156,6 @@ servers:
   - exec: main_sequence
     listeners:
       - protocol: udp
-        addr: ":5335"
+        addr: ":5454"
       - protocol: tcp
-        addr: ":5335"
+        addr: ":5454"
